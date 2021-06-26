@@ -1,0 +1,29 @@
+
+.p{
+	text-align: center;
+	color:white;
+	font-family: 'Amatic SC', cursive;
+	margin-top: 100px;
+}
+.c{
+	text-align: center;
+	margin-top:80px;
+}
+.w3{
+font-family: sans-serif;
+border: 1px solid black;
+margin: 0;
+padding: 0;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+}
+.c,.sa{
+	text-align: center;
+	color:white;
+	font-family: 'Amatic SC', cursive;
+}
+#particles-js {
+    background: black;
+    height: 50vh;
+}
